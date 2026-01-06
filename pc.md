@@ -4,6 +4,9 @@ description:  PC（聚碳酸酯 Polycarbonate ）
 ---
 
 # PC（聚碳酸酯）
+品牌: Wanhua Chemical 萬華化學 Clarnate®
+
+生產方式: 光氣法
 
 ## 材料介紹
 PC（Polycarbonate）是一般工程塑膠，具有優異的耐衝擊性、透明度與耐熱性，廣泛應用於各類日常用品、工業與電子產品。
@@ -18,7 +21,9 @@ PC（Polycarbonate）是一般工程塑膠，具有優異的耐衝擊性、透�
 
 ## 成形條件：
   乾燥：120°C　3~5小時
-  射出溫度：280~320°C
+  
+  射出溫度：280°C ~ 320°C
+  
   模溫：80°C
 
 
