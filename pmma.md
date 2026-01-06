@@ -3,7 +3,9 @@ title: PMMA (Polymethyl Methacrylate 、 Acrylic) 聚甲基丙烯酸甲酯、壓
 description:  PMMA (Polymethyl Methacrylate 、 Acrylic) 聚甲基丙烯酸甲酯、壓克力
 ---
 
-# PMMA (Polymethyl Methacrylate 、 Acrylic) 聚甲基丙烯酸甲酯、壓克力
+# PMMA (Polymethyl Methacrylate 、 Acrylic) 
+# 聚甲基丙烯酸甲酯、壓克力
+
 品牌: Wanhua Chemical 萬華化學 ACRYPLAS®
 
 ## 產品特性 ：
