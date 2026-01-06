@@ -4,7 +4,7 @@ description:  PMMA（聚甲基丙烯酸甲酯 Polymethyl Methacrylate 、 Acryli
 ---
 
 # PMMA（聚甲基丙烯酸甲酯）
-品牌: Wanhua Chemical 萬華化學ACRYPLAS®
+品牌: Wanhua Chemical 萬華化學 ACRYPLAS®
 
 ## 產品特性 ：
 1.	高亮度和優異的光透射率達92%、優異的抗紫外線和耐候性 
@@ -12,6 +12,7 @@ description:  PMMA（聚甲基丙烯酸甲酯 Polymethyl Methacrylate 、 Acryli
 3.	良好的熱變形溫度、剛性好、耐油性、良好的耐化學性、100%可回收利用
 
 ## 成形條件：
+
 預乾燥溫度 80℃~90℃
 
 預乾燥時間 3~4小時
