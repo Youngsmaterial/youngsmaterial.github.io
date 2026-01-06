@@ -23,7 +23,6 @@ description:  PC（聚碳酸酯 Polycarbonate ）
   
   模溫：80°C
 
-
 ## 常見應用
 - 電子產品外殼
 - 汽車零組件
@@ -32,4 +31,5 @@ description:  PC（聚碳酸酯 Polycarbonate ）
 - 安全面罩
 - 光學眼鏡
 - 板材、管棒材
+- 行李箱
 
