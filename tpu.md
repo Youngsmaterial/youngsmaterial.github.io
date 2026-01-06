@@ -1,0 +1,36 @@
+---
+title: TPU (Thermoplastic Polyurethane) 熱可塑性聚氨酯樹脂 ｜永旭材料有限公司
+description: TPU (Thermoplastic Polyurethane) 熱可塑性聚氨酯樹脂
+---
+
+# TPU (Thermoplastic Polyurethane) 熱可塑性聚氨酯樹脂
+# 熱可塑性聚氨酯樹脂
+
+品牌: Wanhua Chemical 萬華化學 Wanthane®
+
+硬度: Shore A 60 ~ Shore D 72 (依照系列有所不同)
+
+## 產品特性 ：
+1. 良好的機械性能。
+2. 良好耐磨性、抗撕裂性能性。
+3. 耐寒及耐曲折性。
+
+## 成形條件：
+
+預乾燥溫度 80℃ ~ 100℃
+
+預乾燥時間 3 ~ 4小時
+
+注塑溫度 195℃ ~ 210℃
+
+模具溫度 20℃ ~ 40℃
+
+
+## 常見應用
+- 管材
+- 薄膜
+- 鞋材
+- 汽車零配件
+- 電子配件
+- 織物
+- 機器零件
