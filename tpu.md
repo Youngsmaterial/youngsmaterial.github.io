@@ -1,5 +1,5 @@
 ---
-title: TPU (Thermoplastic Polyurethane) 熱可塑性聚氨酯樹脂 ｜永旭材料有限公司
+title: TPU (Thermoplastic Polyurethane) 熱可塑性聚氨酯樹脂 ｜永旭材料貿易有限公司
 description: TPU (Thermoplastic Polyurethane) 熱可塑性聚氨酯樹脂
 ---
 
