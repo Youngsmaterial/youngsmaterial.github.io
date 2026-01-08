@@ -24,3 +24,11 @@ description: POE (Polyolefin Elastomer) 聚烯烴彈性體
 
 ## POE 產品型錄(PDF)
 [POE 產品型錄(PDF)下載](assets/POE-TDS.pdf)
+
+
+
+---
+
+📩 **需要完整規格、應用建議或報價？**  
+👉 [請聯絡我們](contact.md)
+
