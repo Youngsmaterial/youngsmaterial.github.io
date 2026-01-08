@@ -6,12 +6,8 @@ description: PC/ABS 聚碳酸酯、丙烯腈-丁二烯-苯乙烯 共聚合物
 # PC/ABS 
 # 聚碳酸酯、丙烯腈-丁二烯-苯乙烯 共聚合物
 
-品牌: Wanhua Chemical 萬華化學 WanBlend®
+品牌: Wanhua Chemical 萬華化學 WanBlend®	
 
-## 產品特性 ：
-1.	
-2.	
-3.	
 
 ## 成形條件：
 
@@ -28,5 +24,4 @@ description: PC/ABS 聚碳酸酯、丙烯腈-丁二烯-苯乙烯 共聚合物
 - 電子產品
 - 家電
 - 汽車零部件
--
 
