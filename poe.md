@@ -1,6 +1,6 @@
 ---
-title: POE (Polyolefin Elastomer) 聚烯烴彈性體 ｜永旭材料貿易有限公司
-description: POE (Polyolefin Elastomer) 聚烯烴彈性體
+title: POE 熱塑性彈性體材料｜POE 規格與應用｜Youngs
+description: 提供 POE 熱塑性彈性體材料，具備優異彈性、耐衝擊與改質性能，適用於線材、包覆與工業改質應用。
 ---
 
 # POE (Polyolefin Elastomer) 聚烯烴彈性體 
