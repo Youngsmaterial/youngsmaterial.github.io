@@ -1,6 +1,6 @@
 ---
-title: 產品介紹｜永旭材料貿易有限公司
-description: 為專業化學原物料代理商，提供 PC、PMMA、PC/ABS、PA12、PPSU、MS、XLPE、POE、TPU 等塑膠材料。
+title: POE 熱塑性彈性體材料｜POE 規格與應用｜Youngs
+description: 提供 POE 熱塑性彈性體材料，具備優異彈性、耐衝擊與改質性能，適用於線材、包覆與工業改質應用。
 ---
 
 ## 產品介紹
