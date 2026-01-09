@@ -1,6 +1,6 @@
 ---
-title: PPSU (Polyphenylsulfone) 聚苯碸 ｜永旭材料貿易有限公司
-description: PPSU (Polyphenylsulfone) 聚苯碸
+title: PPSU 高性能工程塑膠｜PPSU 規格與應用｜Youngs
+description: 提供 PPSU 高性能工程塑膠材料，具備耐高溫、耐水解與優異機械強度，常用於醫療與高階工業應用。
 ---
 
 # PPSU (Polyphenylsulfone) 
@@ -55,3 +55,7 @@ description: PPSU (Polyphenylsulfone) 聚苯碸
 
 
 
+---
+
+📩 **需要完整規格、應用建議或報價？**  
+👉 [請聯絡我們](contact.md)
