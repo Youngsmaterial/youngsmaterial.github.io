@@ -1,6 +1,6 @@
 ---
-title: POE 熱塑性彈性體材料｜POE 規格與應用｜Youngs
-description: 提供 POE 熱塑性彈性體材料，具備優異彈性、耐衝擊與改質性能，適用於線材、包覆與工業改質應用。
+title: 工程塑膠與高分子材料產品一覽｜Youngs
+description: 提供多元工程塑膠與高分子材料，包括 PC、PMMA、PC/ABS、PA12、PPSU、MS、POE、XLPE、TPU 等，協助客戶選擇最適合的材料解決方案。
 ---
 
 ## 產品介紹
