@@ -1,6 +1,6 @@
 ---
-title: PMMA (Polymethyl Methacrylate 、 Acrylic) 聚甲基丙烯酸甲酯、壓克力｜永旭材料貿易有限公司
-description:  PMMA (Polymethyl Methacrylate 、 Acrylic) 聚甲基丙烯酸甲酯、壓克力
+title: PMMA 壓克力材料｜PMMA 規格與應用｜Youngs
+description: 提供 PMMA 壓克力材料，具備高透明度、耐候性與優異外觀，廣泛應用於光學、顯示與工業用途，支援多種規格與技術資料。
 ---
 
 # PMMA (Polymethyl Methacrylate 、 Acrylic) 
@@ -63,3 +63,8 @@ description:  PMMA (Polymethyl Methacrylate 、 Acrylic) 聚甲基丙烯酸甲�
 | 合金級 |BM1650| MFR=6、黑色 |
 
 
+
+---
+
+📩 **需要完整規格、應用建議或報價？**  
+👉 [請聯絡我們](contact.md)
