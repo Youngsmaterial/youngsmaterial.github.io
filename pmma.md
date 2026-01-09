@@ -37,3 +37,29 @@ description:  PMMA (Polymethyl Methacrylate 、 Acrylic) 聚甲基丙烯酸甲�
 - 瓶罐容器
 - 光學眼鏡
 - 板材
+
+
+## 產品描述
+
+
+| 類別 | 規格 | 備註 |
+|----|--------|--------|
+| 一般級 |HD01| MFR=2、AMECA |
+| 一般級 |HD01A| MFR=2 |
+| 一般級 |HD01B| MFR=2 |
+| 一般級 |HD01L| MFR=2 |
+| 一般級 |HD08L| MFR=1.5 |
+| 一般級 |HD03| MFR=3.5、AMECA |
+| 一般級 |HD04| MFR=3.7 |
+| 一般級 |MG01| MFR=7 |
+| 一般級 |SF01| MFR=14 |
+| 一般級 |OD01| MFR=10 |
+| 一般級 |OD02| MFR=20 |
+| 配色級 |HD03| MFR=3.5、紅、灰等顏色 |
+| 耐衝級 |MT1260| MFR=2 |
+| 耐衝級 |MT1270| MFR=1 |
+| 耐衝級 |MT1330| MFR=3 |
+| 合金級 |BM1480| MFR=4、黑色|
+| 合金級 |BM1650| MFR=6、黑色 |
+
+
