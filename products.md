@@ -1,8 +1,3 @@
----
-title: 工程塑膠與高分子材料產品一覽｜永旭材料貿易有限公司
-description: 提供多元工程塑膠與高分子材料，包括 PC、PMMA、PC/ABS、PA12、PPSU、MS、POE、XLPE、TPU 等，協助客戶選擇最適合的材料解決方案。
----
-
 ## 產品介紹
 
 ### 工程塑料（Engineering Plastics）
