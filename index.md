@@ -15,7 +15,7 @@
 
   <p style="display:flex; gap:1rem; justify-content:center; flex-wrap:wrap;">
     <a href="brands" role="button">代理品牌</a>
-    <a href="pa12" role="button" class="secondary">產品列表</a>
+    <a href="products" role="button" class="secondary">產品列表</a>
     <a href="faq" role="button" class="secondary">FAQ</a>
     <a href="contact" role="button" class="contrast">聯絡我們</a>
   </p>
