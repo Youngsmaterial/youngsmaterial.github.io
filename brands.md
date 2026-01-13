@@ -1,3 +1,29 @@
+<nav class="container" style="display:flex; align-items:center; justify-content:space-between; padding:10px 20px;">
+
+  <!-- 左邊 logo -->
+  <ul style="list-style:none; margin:0; padding:0;">
+    <li>
+      <a href="./">
+        <img src="images.keep/logo-brand-youngs.png"
+             alt="永旭材料貿易有限公司"
+             style="height:40px;">
+      </a>
+    </li>
+  </ul>
+
+  <!-- 右邊選單 -->
+  <ul style="list-style:none; margin:0; padding:0; display:flex; gap:20px;">
+    <li><a href="brands.md">代理品牌</a></li>
+    <li><a href="pa12.md">產品列表</a></li>
+    <li><a href="faq.md">FAQ</a></li>
+    <li><a href="contact.md">聯絡我們</a></li>
+  </ul>
+
+</nav>
+
+
+
+
 ## 代理品牌
 
 <div style="display:flex; gap:40px; align-items:flex-start; flex-wrap:wrap; justify-content:center;">
