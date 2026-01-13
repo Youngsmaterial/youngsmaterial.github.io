@@ -1,43 +1,23 @@
-<nav style="
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-  padding:12px 20px;
-">
+<section style="text-align:center; padding:3rem 1rem;">
 
-  <!-- 左側 Logo -->
-  <ul style="
-    list-style:none;
-    margin:0;
-    padding:0;
-    display:flex;
-    align-items:center;
-  ">
-    <li>
-      <a href="./">
-        <img src="images.keep/logo-brand-youngs.png"
-             alt="永旭材料貿易有限公司"
-             style="height:40px; display:block;">
-      </a>
-    </li>
-  </ul>
+  <!-- 公司 Logo + 名稱 -->
+  <div style="display:flex; align-items:center; justify-content:center; gap:12px; margin-bottom:1.5rem;">
+    <img src="images.keep/logo-brand-youngs.png"
+         alt="永旭材料貿易有限公司"
+         style="height:80px; pointer-events:none;">
+    <span style="font-weight:bold; font-size:1.4rem;">永旭材料貿易有限公司</span>
+  </div>
 
-  <!-- 右側選單 -->
-  <ul style="
-    list-style:none;
-    margin:0;
-    padding:0;
-    display:flex;
-    gap:24px;
-    align-items:center;
-  ">
-    <li><a href="brands.md">代理品牌</a></li>
-    <li><a href="products.md">產品列表</a></li>
-    <li><a href="faq.md">FAQ</a></li>
-    <li><a href="contact.md">聯絡我們</a></li>
-  </ul>
+  <!-- 導覽按鈕 -->
+  <p style="display:flex; gap:1rem; justify-content:center; flex-wrap:wrap;">
+    <a href="brands" role="button">代理品牌</a>
+    <a href="products" role="button" class="secondary">產品列表</a>
+    <a href="faq" role="button" class="secondary">FAQ</a>
+    <a href="contact" role="button" class="contrast">聯絡我們</a>
+  </p>
 
-</nav>
+</section>
+
 
 
 
