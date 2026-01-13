@@ -1,7 +1,7 @@
 # 產品介紹
 
 ## 代理品牌
-![Wanhua Chemical Group Co., Ltd.](assets/logo-brand-wanhua.png)
+- [Wanhua Chemical Group Co., Ltd.] (images/logo-brand-wanhua.png)
 
 ## 工程塑料（Engineering Plastics）
 - [PC 聚碳酸酯](pc.md)
