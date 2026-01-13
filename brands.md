@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+
 <section style="text-align:center; padding:3rem 1rem;">
   <img src="images.keep/logo-brand-youngs.png"
        alt="永旭材料貿易有限公司"
