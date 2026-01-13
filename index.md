@@ -2,6 +2,14 @@
 
 <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
 
+<img src="/images/logo-brand-youngs.png"
+     alt=""
+     style="height:80px;pointer-events:none;">
+
+
+
+
+
 # 關於我們
 
 ### 永旭材料貿易有限公司成立於2019年，為萬華化學集團股份有限公司之代理商。
