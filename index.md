@@ -7,11 +7,6 @@
        alt="永旭材料貿易有限公司"
        style="height:80px; margin-bottom:1.5rem; pointer-events:none;">
 
-  <h1>工程塑料與高性能材料專業供應</h1>
-
-  <p style="max-width:720px; margin:1rem auto; font-size:1.1rem;">
-    專注於 PA12、PC、PMMA、PA/ABS 等工程塑料材料，提供穩定供應、技術支援與應用解決方案。
-  </p>
 
   <p style="display:flex; gap:1rem; justify-content:center; flex-wrap:wrap;">
     <a href="brands.md" role="button">代理品牌</a>
