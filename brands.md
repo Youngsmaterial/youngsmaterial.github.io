@@ -1,20 +1,14 @@
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-
 <section style="text-align:center; padding:3rem 1rem;">
-  <!-- Logo -->
   <img src="images.keep/logo-brand-youngs.png"
        alt="永旭材料貿易有限公司"
-       style="height:80px; margin-bottom:1rem; display:block; pointer-events:none;">
+       style="height:80px; margin-bottom:1.5rem; pointer-events:none;">
 
-  <!-- 公司名 -->
-  <h1 style="font-size:2rem; margin-bottom:1.5rem;">永旭材料貿易有限公司</h1>
 
-  <!-- 按鈕列 -->
   <p style="display:flex; gap:1rem; justify-content:center; flex-wrap:wrap;">
     <a href="brands.md" role="button">代理品牌</a>
-    <a href="products.md" role="button">產品列表</a>
-    <a href="faq.md" role="button">FAQ</a>
-    <a href="contact.md" role="button">聯絡我們</a>
+    <a href="products.md" role="button" class="secondary">產品列表</a>
+    <a href="faq.md" role="button" class="secondary">FAQ</a>
+    <a href="contact.md" role="button" class="contrast">聯絡我們</a>
   </p>
 </section>
 
