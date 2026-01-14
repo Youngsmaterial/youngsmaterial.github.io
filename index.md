@@ -36,7 +36,7 @@
     </nav>
 
   </div>
-</div>>
+</div>
 
 
 <!-- Banner -->
