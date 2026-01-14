@@ -11,26 +11,24 @@
     gap:1rem;
     flex-wrap:wrap;
   ">
-    <!-- Logo -->
-    <div>
-      <a href="index.md">
-        <img src="images.keep/logo-brand-youngs.png"
-             alt="永旭材料貿易有限公司"
-             style="height:48px;">
-      </a>
-    </div>
 
-    <!-- 導覽按鈕 -->
+    <!-- Logo -->
+    <a href="index.md" style="display:flex; align-items:center;">
+      <img src="images.keep/logo-brand-youngs.png"
+           alt="永旭材料貿易有限公司"
+           style="height:48px;">
+    </a>
+
+    <!-- 導覽 -->
     <nav style="display:flex; gap:0.5rem; flex-wrap:wrap;">
       <a href="brands.md" role="button" class="secondary">代理品牌</a>
       <a href="products.md" role="button" class="secondary">產品列表</a>
       <a href="faq.md" role="button" class="secondary">FAQ</a>
       <a href="contact.md" role="button">聯絡我們</a>
     </nav>
+
   </div>
 </header>
-
-
 
 
 # 聯絡我們
