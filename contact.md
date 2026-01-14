@@ -1,30 +1,34 @@
-<div style="background:#f2f2f2; border-bottom:1px solid #ddd; margin-bottom:2rem;">
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+
+<header style="background:#f5f5f5; border-bottom:1px solid #e0e0e0;">
   <div style="
-    max-width:1200px;
-    margin:auto;
-    padding:0.75rem 1rem;
+    max-width:1280px;
+    margin:0 auto;
+    padding:0.75rem 1.25rem;
     display:flex;
     align-items:center;
     justify-content:space-between;
-    gap:1rem;
+    gap:1.5rem;
     flex-wrap:wrap;
   ">
 
-    <a href="index">
+    <!-- LOGO -->
+    <a href="index" style="display:flex; align-items:center; gap:0.5rem;">
       <img src="images.keep/logo-brand-youngs.png"
            alt="永旭材料貿易有限公司"
            style="height:48px;">
     </a>
 
-    <div style="display:flex; gap:0.75rem; flex-wrap:wrap;">
+    <!-- 導覽 -->
+    <nav style="display:flex; gap:1.25rem; font-size:0.95rem;">
       <a href="brands">代理品牌</a>
       <a href="products">產品列表</a>
       <a href="faq">FAQ</a>
-      <a href="contact"><strong>聯絡我們</strong></a>
-    </div>
+      <a href="contact" style="font-weight:600;">聯絡我們</a>
+    </nav>
 
   </div>
-</div>
+</header>
 
 
 
