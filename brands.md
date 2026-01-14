@@ -1,6 +1,4 @@
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-
-<header style="background:#f2f2f2; border-bottom:1px solid #ddd;">
+<div style="background:#f2f2f2; border-bottom:1px solid #ddd; margin-bottom:2rem;">
   <div style="
     max-width:1200px;
     margin:auto;
@@ -12,23 +10,21 @@
     flex-wrap:wrap;
   ">
 
-    <!-- Logo -->
-    <a href="index.md" style="display:flex; align-items:center;">
+    <a href="index">
       <img src="images.keep/logo-brand-youngs.png"
            alt="永旭材料貿易有限公司"
            style="height:48px;">
     </a>
 
-    <!-- 導覽 -->
-    <nav style="display:flex; gap:0.5rem; flex-wrap:wrap;">
-      <a href="brands.md" role="button" class="secondary">代理品牌</a>
-      <a href="products.md" role="button" class="secondary">產品列表</a>
-      <a href="faq.md" role="button" class="secondary">FAQ</a>
-      <a href="contact.md" role="button">聯絡我們</a>
-    </nav>
+    <div style="display:flex; gap:0.75rem; flex-wrap:wrap;">
+      <a href="brands">代理品牌</a>
+      <a href="products">產品列表</a>
+      <a href="faq">FAQ</a>
+      <a href="contact"><strong>聯絡我們</strong></a>
+    </div>
 
   </div>
-</header>
+</div>
 
 
 ## 代理品牌
