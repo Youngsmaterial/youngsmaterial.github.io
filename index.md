@@ -1,20 +1,33 @@
 <meta name="google-site-verification" content="QJDnL7dGoZky77bYhCPzByI4d13W8HrakQL2bUWxmMQ" />
 
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<div style="background:#f2f2f2; border-bottom:1px solid #ddd; margin-bottom:2rem;">
+  <div style="
+    max-width:1200px;
+    margin:auto;
+    padding:0.75rem 1rem;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:1rem;
+    flex-wrap:wrap;
+  ">
 
-<section style="text-align:center; padding:3rem 1rem;">
-  <img src="images.keep/logo-brand-youngs.png"
-       alt="永旭材料貿易有限公司"
-       style="height:80px; margin-bottom:1.5rem; pointer-events:none;">
+    <a href="index">
+      <img src="images.keep/logo-brand-youngs.png"
+           alt="永旭材料貿易有限公司"
+           style="height:48px;">
+    </a>
 
+    <div style="display:flex; gap:0.75rem; flex-wrap:wrap;">
+      <a href="brands">代理品牌</a>
+      <a href="products">產品列表</a>
+      <a href="faq">FAQ</a>
+      <a href="contact"><strong>聯絡我們</strong></a>
+    </div>
 
-  <p style="display:flex; gap:1rem; justify-content:center; flex-wrap:wrap;">
-    <a href="brands.md" role="button">代理品牌</a>
-    <a href="products.md" role="button" class="secondary">產品列表</a>
-    <a href="faq.md" role="button" class="secondary">FAQ</a>
-    <a href="contact.md" role="button" class="contrast">聯絡我們</a>
-  </p>
-</section>
+  </div>
+</div>
+
 
 
 
