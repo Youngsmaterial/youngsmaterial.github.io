@@ -38,6 +38,15 @@
   </div>
 </div>>
 
+<div style="
+  width:100%;
+  height:535px; /* 對應你裁切後的高度 */
+  background:url('images.keep/index-images-01.jpg') center/cover no-repeat;
+">
+</div>
+
+
+
 
 
 
