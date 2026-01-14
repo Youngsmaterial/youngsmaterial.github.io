@@ -39,7 +39,7 @@
 
 
 
-# RO膜 (membrane flatsheet) 
+# RO膜 (Membrane Flatsheet) 
 
 
 品牌: Wanhua Chemical 萬華化學 Membrane®
