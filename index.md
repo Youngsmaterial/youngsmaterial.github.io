@@ -39,13 +39,7 @@
 </div>
 
 
-<!-- Banner -->
-<div style="
-  width:100%;
-  height:535px;
-  background:url('images.keep/index-images-01.jpg') center/cover no-repeat;
-">
-</div>
+![Banner](images.keep/index-images-01.jpg)
 
 
 
