@@ -88,7 +88,9 @@
 
 
 
-![PCR Manufacturing Process ](images/pcr-images.jpg)
+<div style="margin:4em 0;">
+  <img src="images/pcr-images.jpg" alt="PCR Manufacturing Process">
+</div>
 
 
 
