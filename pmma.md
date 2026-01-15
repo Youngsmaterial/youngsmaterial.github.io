@@ -80,22 +80,16 @@
 | 類別 | 規格 | 備註 |
 |----|--------|--------|
 | 一般級 |HD01| MFR=2、AMECA |
-| 一般級 |HD01A| MFR=2 |
-| 一般級 |HD01B| MFR=2 |
-| 一般級 |HD01L| MFR=2 |
-| 一般級 |HD08L| MFR=1.5 |
+| 一般級 |HD01B| MFR=2、冰藍色 |
 | 一般級 |HD03| MFR=3.5、AMECA |
 | 一般級 |HD04| MFR=3.7 |
-| 一般級 |MG01| MFR=7 |
 | 一般級 |SF01| MFR=14 |
-| 一般級 |OD01| MFR=10 |
+| 一般級 |OD08| MFR=10 |
 | 一般級 |OD02| MFR=20 |
+| 導光級 |HD08L| MFR=1.5 |
+| 導光級 |OD08| MFR=10 |
 | 配色級 |HD03| MFR=3.5、紅、灰等顏色 |
-| 耐衝級 |MT1260| MFR=2 |
-| 耐衝級 |MT1270| MFR=1 |
-| 耐衝級 |MT1330| MFR=3 |
-| 合金級 |BM1480| MFR=4、黑色|
-| 合金級 |BM1650| MFR=6、黑色 |
+| 耐衝級 |MT1270| MFR=1、IZOD=7 |
 
 
 🔗 延伸材料參考：
@@ -106,3 +100,25 @@
 
 📩 **需要完整規格、應用建議或報價？**  
 👉 [請聯絡我們](contact)
+
+
+<footer style="
+  margin-top:4rem;
+  padding:1.5rem 1rem;
+  border-top:1px solid #e5e5e5;
+  font-size:0.85rem;
+  color:#555;
+">
+  <div style="
+    max-width:1200px;
+    margin:0 auto;
+    display:flex;
+    flex-direction:column;
+    gap:0.25rem;
+    text-align:center;
+  ">
+    <div>永旭材料貿易有限公司 ©</div>
+    <div>YOUNGS MATERIAL CO., LTD.</div>
+    <div>電話：06-2580502 ｜ 地址：臺南市北區大和路330巷21號1樓</div>
+  </div>
+</footer>
