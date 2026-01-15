@@ -55,7 +55,7 @@
   
 ## 成形條件：
 
-預乾燥溫度 120℃ ~ 90℃
+預乾燥溫度 90℃ ~ 120℃
 
 預乾燥時間 3 ~ 5小時
 
@@ -88,33 +88,31 @@
 | 粉料 |2280| MFR=27 |
 | 粉料 |2350| MFR=34 |
 | 一般級 |A1030| MFR=2.5 |
-| 一般級 |A1070| MFR=7、無脫模劑 |
-| 一般級 |A1073| MFR=7  |
-| 一般級 |A1077| MFR=7、UV |
-| 一般級 |A1100| MFR=9.5、無脫模劑 |
-| 一般級 |A1105| MFR=9.5 |
-| 一般級 |A1107| MFR=10、UV |
-| 一般級 |A1150| MFR=16、無脫模劑 |
-| 一般級 |A1155| MFR=16 |
-| 一般級 |A1157| MFR=16、UV |
-| 一般級 |A1220| MFR=20、無脫模劑 |
-| 一般級 |A1225| MFR=20 |
-| 一般級 |A1227| MFR=21、UV |
-| 一般級 |A1280| MFR=27、無脫模劑 |
-| 一般級 |A1285| MFR=27 |
+| 一般級 |A1070| MFR=7 |
+| 一般級 |A1100| MFR=9.5 |
+| 一般級 |A1150| MFR=16 |
+| 一般級 |A1220| MFR=20 |
+| 一般級 |A1280| MFR=27 |
+| 一般級 |A1073| MFR=7、UV  |
+| 一般級 |A1105| MFR=9.5、脫膜劑 |
+| 一般級 |A1155| MFR=16、脫膜劑 |
+| 一般級 |A1225| MFR=20、脫膜劑 |
+| 一般級 |A1285| MFR=27、脫膜劑 |
+| 一般級 |A1077| MFR=7、UV、脫膜劑 |
+| 一般級 |A1107| MFR=10、UV、脫膜劑 |
+| 一般級 |A1157| MFR=16、UV、脫膜劑 |
+| 一般級 |A1227| MFR=21、UV、脫膜劑 |
 | 一般級 |A1357| MFR=34、UV |
 | 車燈級 |HL6157| MFR=17、UV、AMECA |
 | 車燈級 |HL6227| MFR=20、UV、AMECA |
 | 車燈級 |A1225BK| MFR=20 |
 | 車燈級 |A135BK| MFR=33.5 |
-| 光學級 |OL1058| MFR=6、UV385 |
-| 光學級 |OL2078| MFR=7、UV400 |
+| 光學鏡片級 |OL1058| MFR=5、UV385 |
+| 光學鏡片級 |OL2078| MFR=7、UV400 |
 | Film級 |FL5105| MFR=10 |
 | 阻燃級 |FR2720T| MFR=8 |
 | 阻燃級 |FR2820T| MFR=11 |
 | 阻燃級 |FR3710T| MFR=3 |
-| IR級 |IR1157| MFR=16 |
-| IR級 |IR2227| MFR=20 |
 | 食品接觸級 |FC3105| MFR=10、NSF |
 | 食品接觸級 |FC3155| MFR=15、NSF |
 | 水桶級 |WB2032| MFR=3、支化PC |
@@ -126,9 +124,9 @@
 | 醫療級 |MR106| MFR=10 |
 | 醫療級 |MR156| MFR=16 |
 | 醫療級 |MR206| MFR=20 |
-| PCR PC |R1050| GRS |
-| PCR PC |R1100| GRS |
-| PCR PC |R1250| GRS |
+| PCR PC |R1050| GRS、100%PCR |
+| PCR PC |R1100| GRS、100%PCR |
+| PCR PC |R1250| GRS、100%PCR |
 
 
 
@@ -140,3 +138,25 @@
 
 📩 **需要完整規格、應用建議或報價？**  
 👉 [請聯絡我們](contact)
+
+
+<footer style="
+  margin-top:4rem;
+  padding:1.5rem 1rem;
+  border-top:1px solid #e5e5e5;
+  font-size:0.85rem;
+  color:#555;
+">
+  <div style="
+    max-width:1200px;
+    margin:0 auto;
+    display:flex;
+    flex-direction:column;
+    gap:0.25rem;
+    text-align:center;
+  ">
+    <div>永旭材料貿易有限公司 ©</div>
+    <div>YOUNGS MATERIAL CO., LTD.</div>
+    <div>電話：06-2580502 ｜ 地址：臺南市北區大和路330巷21號1樓</div>
+  </div>
+</footer>
