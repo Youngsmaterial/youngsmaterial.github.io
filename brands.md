@@ -67,9 +67,12 @@
 
 
 
-
-🔗 延伸材料參考：
-- [產品總覽](products)
+<div style="margin-top:2em;">
+  🔗 延伸材料參考：
+  <ul>
+    <li><a href="products">產品總覽</a></li>
+  </ul>
+</div>
 
 
 ---
