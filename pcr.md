@@ -39,7 +39,7 @@
 
 
 
-# PCR (ost-Consumer Recycled) 
+# PCR (Post-Consumer Recycled) 
 # 環保回收再製材料
 
 
