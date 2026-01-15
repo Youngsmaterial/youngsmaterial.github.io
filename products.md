@@ -44,7 +44,7 @@
 ## 工程塑料（Engineering Plastics）
 - [PC 聚碳酸酯](pc)
 - [PMMA 壓克力](pmma)
-- [PC/ABS 合金](pc-abs)
+- [PC改性·PC/ABS 合金](pc-abs)
 - [PA12 尼龍](pa12)
 - [PPSU 聚苯碸](ppsu)
 - [MS 樹脂](ms)
@@ -61,3 +61,25 @@
 
 📩 **需要完整規格、TDS 或報價？**  
 👉 [請聯絡我們](contact)
+
+
+<footer style="
+  margin-top:4rem;
+  padding:1.5rem 1rem;
+  border-top:1px solid #e5e5e5;
+  font-size:0.85rem;
+  color:#555;
+">
+  <div style="
+    max-width:1200px;
+    margin:0 auto;
+    display:flex;
+    flex-direction:column;
+    gap:0.25rem;
+    text-align:center;
+  ">
+    <div>永旭材料貿易有限公司 ©</div>
+    <div>YOUNGS MATERIAL CO., LTD.</div>
+    <div>電話：06-2580502 ｜ 地址：臺南市北區大和路330巷21號1樓</div>
+  </div>
+</footer>
