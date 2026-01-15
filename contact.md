@@ -59,6 +59,7 @@
     </div>
 
 
+
 <!-- 右欄：聯絡表單 -->
 <div style="
   background:#f6f7f8;
@@ -72,22 +73,24 @@
     請填寫以下資料，我們將儘快與您聯繫。
   </p>
 
-  <form style="display:grid; gap:0.6rem; font-size:0.9rem;">
+  <!-- Formspree 表單 -->
+  <form id="contactForm" style="display:grid; gap:0.6rem; font-size:0.9rem;"
+        action="https://formspree.io/f/你的formid" method="POST">
 
     <label>
       公司名稱
-      <input type="text" placeholder="請輸入公司名稱" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
+      <input type="text" name="company" placeholder="請輸入公司名稱" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
     </label>
 
     <div style="display:grid; grid-template-columns:1fr 1fr; gap:0.6rem;">
       <label>
         聯絡人
-        <input type="text" placeholder="請輸入姓名" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
+        <input type="text" name="name" placeholder="請輸入姓名" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
       </label>
 
       <label>
         性別
-        <select style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
+        <select name="gender" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
           <option>請選擇</option>
           <option>先生</option>
           <option>女士</option>
@@ -98,17 +101,17 @@
 
     <label>
       聯絡電話
-      <input type="tel" placeholder="" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
+      <input type="tel" name="phone" placeholder="例如：06-2580502" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
     </label>
 
     <label>
       電子郵件
-      <input type="email" placeholder="example@email.com" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
+      <input type="email" name="email" placeholder="example@email.com" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;" required>
     </label>
 
     <label>
       詢問內容
-      <textarea rows="3" placeholder="請輸入您的需求或產品規格" style="font-size:0.9rem; padding:0.2rem;"></textarea>
+      <textarea name="message" rows="3" placeholder="請輸入您的需求或產品規格" style="font-size:0.9rem; padding:0.2rem;" required></textarea>
     </label>
 
     <button type="submit" style="
@@ -129,7 +132,35 @@
     </button>
 
   </form>
+
+  <!-- 成功訊息 -->
+  <div id="successMessage" style="display:none; margin-top:1rem; color:green; font-weight:600;">
+    ✅ 您的訊息已送出，我們將儘快回覆您！
+  </div>
+
 </div>
+
+<script>
+const form = document.getElementById('contactForm');
+const successMessage = document.getElementById('successMessage');
+
+form.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const formData = new FormData(form);
+  const response = await fetch(form.action, {
+    method: form.method,
+    body: formData,
+    headers: { 'Accept': 'application/json' }
+  });
+  if (response.ok) {
+    form.style.display = 'none';
+    successMessage.style.display = 'block';
+  } else {
+    alert('送出失敗，請稍後再試。');
+  }
+});
+</script>
+
 
 
 
