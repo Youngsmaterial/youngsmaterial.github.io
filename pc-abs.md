@@ -38,7 +38,7 @@
 </div>>
 
 
-# PC合金·PC/ABS 
+# PC合金、PC/ABS 
 # 聚碳酸酯、丙烯腈-丁二烯-苯乙烯 共聚合物
 
 品牌: Wanhua Chemical 萬華化學 WanBlend®	
