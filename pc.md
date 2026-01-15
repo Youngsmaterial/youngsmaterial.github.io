@@ -131,7 +131,7 @@
 
 
 🔗 延伸材料參考：
-- [PC合金·PC/ABS 合金](pc-abs)
+- [PC合金、PC/ABS 合金](pc-abs)
 - [返回產品總覽](products)
 
 ---
