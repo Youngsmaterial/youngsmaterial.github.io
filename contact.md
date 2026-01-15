@@ -1,3 +1,21 @@
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+
+<div style="background:#ffffff; border-bottom:1px solid #dcdcdc;">
+  <div style="
+    max-width:1280px;
+    margin:0 auto;
+    padding:1.25rem 1.5rem; /* 保留原本 padding，上下與導覽列平行 */
+    display:flex;
+    align-items:center; /* logo 與導覽列垂直置中 */
+    justify-content:space-between;
+    gap:2rem;
+    flex-wrap:wrap;
+  ">
+
+
+
+
+
 <section style="max-width:1200px; margin:3rem auto; padding:0 1rem;">
   <div style="display:grid; grid-template-columns:1fr 1fr; gap:3rem;">
 
