@@ -58,3 +58,25 @@
 
 
 📩 歡迎來信洽詢，我們將儘快回覆您。
+
+
+<footer style="
+  margin-top:4rem;
+  padding:1.5rem 1rem;
+  border-top:1px solid #e5e5e5;
+  font-size:0.85rem;
+  color:#555;
+">
+  <div style="
+    max-width:1200px;
+    margin:0 auto;
+    display:flex;
+    flex-direction:column;
+    gap:0.25rem;
+    text-align:center;
+  ">
+    <div>永旭材料貿易有限公司 ©</div>
+    <div>YOUNGS MATERIAL CO., LTD.</div>
+    <div>電話：06-2580502 ｜ 地址：臺南市北區大和路330巷21號1樓</div>
+  </div>
+</footer>
