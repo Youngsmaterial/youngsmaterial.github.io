@@ -12,6 +12,31 @@
     flex-wrap:wrap;
   ">
 
+    <!-- 左側 LOGO -->
+    <a href="index" style="display:flex; align-items:center;">
+      <img src="images/logo-brand-youngs.png"
+           alt="永旭材料貿易有限公司"
+           style="height:80px; max-width:none; object-fit:contain;"> 
+    </a>
+
+    <!-- 右側 導覽列 -->
+    <nav style="
+      display:flex;
+      gap:1.5rem;
+      font-size:0.95rem;
+      align-items:center;
+      white-space:nowrap;
+    ">
+      <a href="index">公司簡介</a>
+      <a href="brands">代理品牌</a>
+      <a href="products">產品列表</a>
+      <a href="faq">FAQ</a>
+      <a href="contact" style="font-weight:600;">聯絡我們</a>
+    </nav>
+
+  </div>
+</div>
+
 
 
 
