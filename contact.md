@@ -73,7 +73,11 @@
     請填寫以下資料，我們將儘快與您聯繫。
   </p>
 
-  <form style="display:grid; gap:0.6rem; font-size:0.9rem;">
+<form
+  action="https://formsubmit.co/ray@youngs.com.tw"
+  method="POST"
+  style="display:grid; gap:0.6rem; font-size:0.9rem;"
+>
 
     <label>
       公司名稱
