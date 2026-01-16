@@ -59,54 +59,39 @@
     </div>
 
 
+
+
 <!-- 右欄：聯絡表單 -->
 <div style="
   background:#f6f7f8;
-  padding:0.9rem;
+  padding:1.5rem;
   border:1px solid #dcdcdc;
   border-radius:6px;
 ">
 
-  <h2 style="margin:0 0 0.4rem 0; font-size:1rem;">聯絡表單</h2>
-  <p style="color:#555; margin:0 0 0.4rem 0; font-size:0.8rem;">
+  <h2 style="margin-top:0;">聯絡表單</h2>
+  <p style="color:#555; margin-bottom:1.5rem;">
     請填寫以下資料，我們將儘快與您聯繫。
   </p>
 
-  <!-- 成功訊息（送出後顯示） -->
+  <!-- 成功訊息（送出後會顯示） -->
   <div id="success" style="
     display:none;
-    padding:0.6rem;
+    padding:0.8rem;
+    margin-bottom:1rem;
     background:#eaf6ec;
     border:1px solid #b6dfc1;
     border-radius:4px;
-    font-size:0.8rem;
+    font-size:0.9rem;
     color:#256029;
-    margin-bottom:0.4rem;
   ">
     ✔ 表單已成功送出，我們會盡快與您聯繫。
   </div>
 
-  <!-- 壓縮高度設定（僅此頁） -->
-  <style>
-    form {
-      display: grid;
-      gap: 0.2rem;
-      font-size: 0.8rem;
-    }
-    form label {
-      font-size: 0.75rem;
-    }
-    form input,
-    form select,
-    form textarea {
-      padding: 0.28rem 0.45rem;
-      font-size: 0.8rem;
-    }
-  </style>
-
   <form
     action="https://formsubmit.co/ray@youngs.com.tw"
     method="POST"
+    style="display:grid; gap:0.6rem; font-size:0.9rem;"
   >
     <!-- FormSubmit 設定 -->
     <input type="hidden" name="_subject" value="官網聯絡表單詢問">
@@ -146,18 +131,17 @@
 
     <label>
       詢問內容
-      <textarea name="message" rows="2"></textarea>
+      <textarea name="message" rows="3"></textarea>
     </label>
 
     <button type="submit" style="
-      margin-top:0.3rem;
-      background:rgba(47,58,65,0.55);
+      margin-top:0.8rem;
+      background:rgba(47,58,65,0.5);
       border:none;
-      padding:0.4rem 0.9rem;
-      width:120px;
+      padding:0.6rem 1.2rem;
+      width:140px;
       color:#fff;
       border-radius:4px;
-      font-size:0.8rem;
     ">
       送出表單
     </button>
