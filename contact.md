@@ -1,3 +1,21 @@
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+
+<div style="background:#ffffff; border-bottom:1px solid #dcdcdc;">
+  <div style="
+    max-width:1280px;
+    margin:0 auto;
+    padding:1.25rem 1.5rem; /* 保留原本 padding，上下與導覽列平行 */
+    display:flex;
+    align-items:center; /* logo 與導覽列垂直置中 */
+    justify-content:space-between;
+    gap:2rem;
+    flex-wrap:wrap;
+  ">
+
+
+
+
+
 
 <section style="max-width:1200px; margin:3.5rem auto; padding:0 1.5rem;">
   <div style="display:grid; grid-template-columns:1fr 1fr; gap:3.5rem; align-items:flex-start;">
@@ -68,3 +86,26 @@
 
   </div>
 </section>>
+
+
+
+<footer style="
+  margin-top:4rem;
+  padding:1.5rem 1rem;
+  border-top:1px solid #e5e5e5;
+  font-size:0.85rem;
+  color:#555;
+">
+  <div style="
+    max-width:1200px;
+    margin:0 auto;
+    display:flex;
+    flex-direction:column;
+    gap:0.25rem;
+    text-align:center;
+  ">
+    <div>永旭材料貿易有限公司 ©</div>
+    <div>YOUNGS MATERIAL CO., LTD.</div>
+    <div>電話：06-2580502 ｜ 地址：臺南市北區大和路330巷21號1樓</div>
+  </div>
+</footer
