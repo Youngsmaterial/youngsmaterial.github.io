@@ -1,3 +1,6 @@
+Contact.md
+
+
 <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
 
 <div style="background:#ffffff; border-bottom:1px solid #dcdcdc;">
@@ -42,7 +45,7 @@
 
 
 <section style="max-width:1200px; margin:3rem auto; padding:0 1rem;">
-<div style="display:grid; grid-template-columns:1fr 1fr; gap:3rem;">
+  <div style="display:grid; grid-template-columns:1fr 1fr; gap:3rem;">
 
     <!-- 左欄：聯絡資訊 -->
     <div>
@@ -60,12 +63,11 @@
 
 
 
-
 <!-- 右欄：聯絡表單 -->
 <div style="
   background:#f6f7f8;
   padding:1.5rem;
-  border:1px solid #dcdcdc;
+  border:1px solid #dcdcdc;      
   border-radius:6px;
 ">
 
@@ -74,64 +76,47 @@
     請填寫以下資料，我們將儘快與您聯繫。
   </p>
 
-  <!-- 成功訊息 -->
-  <div id="success" style="
-    display:none;
-    padding:0.8rem;
-    margin-bottom:1rem;
-    background:#eaf6ec;
-    border:1px solid #b6dfc1;
-    border-radius:4px;
-    font-size:0.9rem;
-    color:#256029;
-  ">
-    ✔ 表單已成功送出，我們會盡快與您聯繫。
-  </div>
-
-  <form
-    action="https://formsubmit.co/ray@youngs.com.tw"
-    method="POST"
-    onsubmit="showSuccess();"
-  >
-    <!-- FormSubmit 設定 -->
-    <input type="hidden" name="_subject" value="官網聯絡表單詢問">
-    <input type="hidden" name="_captcha" value="false">
-    <input type="hidden" name="_template" value="table">
-    <input type="hidden" name="_next" value="contact#success">
+<form
+  action="https://formsubmit.co/ray@youngs.com.tw"
+  method="POST"
+  style="display:grid; gap:0.6rem; font-size:0.9rem;"
+>
 
     <label>
       公司名稱
-      <input type="text" name="company" required>
+      <input type="text" placeholder="請輸入公司名稱" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
     </label>
 
-    <label>
-      聯絡人
-      <input type="text" name="contact_name" required>
-    </label>
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:0.6rem;">
+      <label>
+        聯絡人
+        <input type="text" placeholder="請輸入姓名" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
+      </label>
 
-    <label>
-      性別
-      <select name="gender" required>
-        <option value="">請選擇</option>
-        <option value="先生">先生</option>
-        <option value="小姐">小姐</option>
-        <option value="其他">其他</option>
-      </select>
-    </label>
+      <label>
+        性別
+        <select style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
+          <option>請選擇</option>
+          <option>先生</option>
+          <option>女士</option>
+          <option>其他</option>
+        </select>
+      </label>
+    </div>
 
     <label>
       聯絡電話
-      <input type="tel" name="phone" required>
+      <input type="tel" placeholder="例如：06-2580502" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
     </label>
 
     <label>
       電子郵件
-      <input type="email" name="email" required>
+      <input type="email" placeholder="example@email.com" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
     </label>
 
     <label>
       詢問內容
-      <textarea name="message" rows="3" required></textarea>
+      <textarea rows="3" placeholder="請輸入您的需求或產品規格" style="font-size:0.9rem; padding:0.2rem;"></textarea>
     </label>
 
     <button type="submit" style="
@@ -139,22 +124,24 @@
       background:rgba(47,58,65,0.5);
       border:none;
       padding:0.6rem 1.2rem;
+      font-size:0.9rem;
       width:140px;
       color:#fff;
       border-radius:4px;
-    ">
+      cursor:pointer;
+    "
+    onmouseover="this.style.background='rgba(47,58,65,0.8)'"
+    onmouseout="this.style.background='rgba(47,58,65,0.5)'"
+    >
       送出表單
     </button>
-  </form>
 
+  </form>
 </div>
 
-<script>
-function showSuccess() {
-  document.getElementById('success').style.display = 'block';
-}
-</script>
 
+  </div>
+</section>
 
 
 
@@ -178,5 +165,3 @@ function showSuccess() {
     <div>電話：06-2580502 ｜ 地址：臺南市北區大和路330巷21號1樓</div>
   </div>
 </footer>
-
-
