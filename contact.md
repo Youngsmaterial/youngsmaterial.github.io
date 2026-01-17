@@ -42,7 +42,7 @@
 
 
 <section style="max-width:1200px; margin:3rem auto; padding:0 1rem;">
-  <div style="display:grid; grid-template-columns:1fr 1fr; gap:3rem;">
+ <div style="display:grid; grid-template-columns:1fr 1fr; gap:3rem; box-sizing:border-box;">
 
     <!-- 左欄：聯絡資訊 -->
     <div>
