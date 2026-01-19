@@ -1,3 +1,5 @@
+<title>永旭YOUNGS</title>
+
 <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
 
 <div style="background:#ffffff; border-bottom:1px solid #dcdcdc;">
