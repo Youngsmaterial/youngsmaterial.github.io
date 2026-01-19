@@ -1,3 +1,5 @@
+<title>永旭YOUNGS</title>
+
 <meta name="google-site-verification" content="QJDnL7dGoZky77bYhCPzByI4d13W8HrakQL2bUWxmMQ" />
 
 <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
