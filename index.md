@@ -1,4 +1,13 @@
-<title>永旭YOUNGS</title>
+<style>
+  header,
+  .site-header,
+  .page-header {
+    display: none !important;
+  }
+</style>
+
+ <title>永旭材料貿易有限公司 YOUNGS</title>
+
 
 <meta name="google-site-verification" content="QJDnL7dGoZky77bYhCPzByI4d13W8HrakQL2bUWxmMQ" />
 
