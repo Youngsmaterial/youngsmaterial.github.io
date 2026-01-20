@@ -1,4 +1,14 @@
-<title>永旭YOUNGS</title>
+<style>
+  header,
+  .site-header,
+  .page-header {
+    display: none !important;
+  }
+</style>
+
+ <title>永旭材料貿易有限公司 YOUNGS</title>
+
+
 
 <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
 
