@@ -81,7 +81,7 @@
 | 阻燃PC |FR2827T| 3.0mm V0 | MFR=10、**F1** |
 | 阻燃PC |FR3730SL| 1.5mm V0 | MFR=16 |
 | 阻燃PC |FR3730HF| 1.5mm V0 |  MFR=18、高流動 |
-| 阻燃PC |GF3110|  1.5mm V0 | MFR=7、10%GF |
+| 阻燃PC |GF3110|  1.5mm V0 | MFR=7、10%GF、**F1** |
 | 阻燃PC |GF3210|  1.5mm V0 | MFR=7、20%GF |
 | 阻燃PC |GF3110HF|  1.5mm V0 | MFR=20、10%GF、高流動 |
 | 光擴散PC |LD1627|  |  MFR=20 |
