@@ -81,22 +81,24 @@
 
 ## PCR PC 產品描述
 
-| 類別 | 規格 | 備註 |
-|----|--------|--------|
-| PCR PC |R1050| GRS、100% PCR |
-| PCR PC |R1100| GRS、100% PCR |
-| PCR PC |R1250| GRS、100% PCR |
+| 類別 | 規格 | 阻燃UL94| 備註 |
+|----|--------|--------|----|
+| 一般級 | R1050 | | GRS、100% PCR |
+| 一般級 | R1100 | | GRS、100% PCR |
+| 一般級 | R1250 | | GRS、100% PCR |
+| 阻燃級 | FR3730M R50 |  1.5mm V0 | GRS、50% PCR |
+
 
 ## PCR PC/ABS 產品描述
 
-| 類別 | 規格 | 備註 |
-|------|--------|--------|
-| PCR PC/ABS | CA1560 R50 | GRS、50% PCR |
-| PCR PC/ABS | CA1580 R75 | GRS、75% PCR |
-| PCR PC/ABS | CA3150 CM R75 | GRS、75% PCR、15% Talc |
-| PCR PC/ABS | CA3250 R65 | GRS、65% PCR |
-| PCR PC/ABS | CA3350 R75 | GRS、75% PCR、1.5mm V0 |
-| PCR PC/ABS | FR3730M R50 | GRS、50% PCR、1.5mm V0 阻燃 |
+| 類別 | 規格 | 阻燃UL94| 備註 |
+|------|--------|--------|------|
+| 一般級 | CA1560 R50 | 1.5mm HB | GRS、50% PCR |
+| 一般級 | CA1580 R75 | 1.5mm HB | GRS、75% PCR |
+| 阻燃級 | CA3150 CM R75 |  1.0mm V0 | GRS、75% PCR、15% Talc |
+| 阻燃級 | CA3250 R65 |  1.5mm V0 | GRS、65% PCR |
+| 阻燃級 | CA3350 R75 | 1.5mm V0 | GRS、75% PCR |
+
 
 
 
