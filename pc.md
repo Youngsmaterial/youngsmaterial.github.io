@@ -140,7 +140,7 @@
 | PCR PC | R1100 | 10 | GRS、**100% PCR** |
 | PCR PC | R1250 | 20 | GRS、**100% PCR** |
 
-
+<br><br>
 
 🔗 延伸材料參考：
 - [PC合金、PC/ABS 合金](pc-abs)
