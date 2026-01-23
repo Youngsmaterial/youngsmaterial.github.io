@@ -80,7 +80,7 @@
 | 絕緣 |4205SC| Rated Voltage 230KV(Um = 245 kv) |  |
 | 絕緣 |4205EHV| Rated Voltag > 230KV (Um = 550 kv) |  |
 
-
+<br><br>
 
 🔗 延伸材料參考：
 - [返回產品總覽](products)
