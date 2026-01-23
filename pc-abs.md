@@ -55,7 +55,7 @@
 
 <br>
 
-## 🟦 **品牌: Wanhua Chemical 萬華化學 WanBlend®**	
+🏭 **品牌: Wanhua Chemical 萬華化學 WanBlend®**	
 
 <br>
 
