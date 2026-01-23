@@ -54,8 +54,9 @@
 # MS (Methyl Methacrylate Styrene) 
 # 甲基丙烯酸甲酯-苯乙烯 共聚合物
 
+<br>
 
-品牌: Wanhua Chemical 萬華化學 Wanclea®
+**品牌: Wanhua Chemical 萬華化學 Wanclea®**
 
 <br>
 
