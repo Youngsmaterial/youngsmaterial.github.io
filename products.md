@@ -61,8 +61,8 @@
 - [PPSU 聚苯碸](ppsu)
 - [MS 樹脂](ms)
 
-## 🟨 PCR 環保回收再製材料（Post-Consumer Recycled）♻️
-- [PCR 環保回收再製材料](pcr)
+## 🟨 PCR 環保回收再製材料（Post-Consumer Recycled）
+- [PCR 環保回收再製材料](pcr) ♻️
 
 
 ## 🟨 彈性體與特殊材料
