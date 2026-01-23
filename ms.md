@@ -51,8 +51,8 @@
 
 
 
-# MS (Methyl Methacrylate Styrene) 
-# 甲基丙烯酸甲酯-苯乙烯 共聚合物
+# MS (Methyl Methacrylate Styrene) 甲基丙烯酸甲酯-苯乙烯 共聚合物
+
 
 
 <br>
