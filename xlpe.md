@@ -73,7 +73,7 @@
 
 <br>
 
-🏭 **品牌: Wanhua Chemical 萬華化學 Wanbricon®**
+**品牌: Wanhua Chemical 萬華化學 Wanbricon®**
 
 <br>
 
