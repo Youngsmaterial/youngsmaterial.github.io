@@ -57,7 +57,7 @@
 
 <br>
 
-🟦 **品牌: Wanhua Chemical 萬華化學 Wanclea®**
+🏭 **品牌: Wanhua Chemical 萬華化學 Wanclea®**
 
 <br>
 
