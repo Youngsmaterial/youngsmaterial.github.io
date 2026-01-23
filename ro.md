@@ -49,17 +49,35 @@
   </div>
 </div>
 
+<style>
+  h2 {
+    border-left: 5px solid #d0d0d0;
+    padding-left: 0.9rem;
+    margin-top: 3rem;
+    margin-bottom: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
 
+  ul {
+    margin-top: 0.3rem;
+    margin-bottom: 1.6rem;
+  }
+
+  li {
+    line-height: 1.7;
+  }
+</style>
 
 # RO Flat Sheet / RO Element  
 
 <br>
 
-🏭 **品牌: Wanhua Chemical 萬華化學 Membrane®**
+**品牌: Wanhua Chemical 萬華化學 Membrane®**
 
 <br>
 
-## 🟦 Reverse Osmosis Flatsheet 產品描述
+## Reverse Osmosis Flatsheet 產品描述
 
 | 類別 |   通水量GPD (LMH)| 脫鹽率(%) | 備註 |
 |-------|:--------:|:--------:|--------|
@@ -70,7 +88,7 @@
 
 <br>
 
-## 🟦 Reverse Osmosis Element 產品描述
+## Reverse Osmosis Element 產品描述
 
 | <span style="white-space: nowrap;">類別</span> | 規格 |  通水量GPD | 脫鹽率(%) | 有效膜面積ft²  (m²) | 進水隔網厚度（mil） |備註 |
 |----|--------|:--------:|:--------:|:-------:|:------:|------|
