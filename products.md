@@ -77,7 +77,7 @@
 <br>
 
 ## 🟨 其他
-- [RO膜](ro)
+- [RO Flat Sheet / RO Element](ro)
 
 <br><br>
 
