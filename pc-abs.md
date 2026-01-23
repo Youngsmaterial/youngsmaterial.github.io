@@ -49,17 +49,36 @@
   </div>
 </div>>
 
+<style>
+  h2 {
+    border-left: 5px solid #d0d0d0;
+    padding-left: 0.9rem;
+    margin-top: 3rem;
+    margin-bottom: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+
+  ul {
+    margin-top: 0.3rem;
+    margin-bottom: 1.6rem;
+  }
+
+  li {
+    line-height: 1.7;
+  }
+</style>
 
 # PC合金、PC/ABS合金 
 # 聚碳酸酯、丙烯腈-丁二烯-苯乙烯 共聚合物
 
 <br>
 
-🏭 **品牌: Wanhua Chemical 萬華化學 WanBlend®**	
+**品牌: Wanhua Chemical 萬華化學 WanBlend®**	
 
 <br>
 
-## 🟦 成形條件：
+## 成形條件：
 
 預乾燥溫度 80℃ ~ 100℃
 
@@ -71,7 +90,7 @@
 
 <br>
 
-## 🟦 常見應用
+## 常見應用
 - 電子產品
 - 家電
 - 汽車零部件
@@ -79,7 +98,7 @@
 
 <br>
 
-## 🟦 PC合金 產品描述
+## PC合金 產品描述
 
 
 | 類別 | 規格| 阻燃UL94 | MFR | 備註 |
@@ -97,7 +116,7 @@
 
 <br>
 
-## 🟦 PC/ABS合金 產品描述
+## PC/ABS合金 產品描述
 
 | 類別 | 規格| 熔融指數MFR |  熱變形溫度 HDT<br>(℃)  (1.82 MPa) | 阻燃UL94 | 備註 |
 |----|--------|:--------:|:--------:|:-------:|--------|
