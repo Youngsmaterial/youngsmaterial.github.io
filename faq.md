@@ -48,11 +48,31 @@
   </div>
 </div>
 
+<style>
+  h2 {
+    border-left: 5px solid #d0d0d0;
+    padding-left: 0.9rem;
+    margin-top: 3rem;
+    margin-bottom: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+
+  ul {
+    margin-top: 0.3rem;
+    margin-bottom: 1.6rem;
+  }
+
+  li {
+    line-height: 1.7;
+  }
+</style>
+
 # 射出成型加工問題與對策 FAQ
 
 <br>
 
-## 🧪 UL94 級別說明
+## UL94 級別說明
 
 | 級別 | 樣品方向 | 燃燒速度               | 滴落微粒 | 滴落微粒是否可燃棉花 | 是否燒穿 |
 | ---- |:--------:|:----------------------:|:--------:|:--------------------:|:--------:|
