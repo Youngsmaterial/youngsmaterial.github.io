@@ -50,33 +50,53 @@
 </div>
 
 
+<style>
+  h2 {
+    border-left: 5px solid #d0d0d0;
+    padding-left: 0.9rem;
+    margin-top: 3rem;
+    margin-bottom: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+
+  ul {
+    margin-top: 0.3rem;
+    margin-bottom: 1.6rem;
+  }
+
+  li {
+    line-height: 1.7;
+  }
+</style>
+
 # 產品介紹
 
 <br>
 
-## 🟧 工程塑料（Engineering Plastics)
+## 工程塑料（Engineering Plastics）
 - [PC 聚碳酸酯](pc)
 - [PMMA 壓克力](pmma)
-- [PC合金、PC/ABS 合金](pc-abs)
+- [PC 合金、PC/ABS 合金](pc-abs)
 - [PA12 尼龍](pa12)
 - [PPSU 聚苯碸](ppsu)
 - [MS 樹脂](ms)
 
 <br>
 
-## 🟩 PCR 環保回收再製材料（Post-Consumer Recycled)
-- [PCR 環保回收再製材料](pcr) 
+## PCR 環保回收再製材料（Post-Consumer Recycled）
+- [PCR 環保回收再製材料](pcr)
 
 <br>
 
-## 🟫 彈性體與特殊材料
+## 彈性體與特殊材料
 - [POE 聚烯烴彈性體](poe)
 - [XLPE 交聯聚乙烯](xlpe)
 - [TPU 熱塑性聚氨酯樹脂](tpu)
 
 <br>
 
-## 🟨 其他
+## 其他
 - [RO Flat Sheet / RO Element](ro)
 
 <br><br>
