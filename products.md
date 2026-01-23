@@ -65,7 +65,7 @@
 <br>
 
 ## 🟨 PCR 環保回收再製材料（Post-Consumer Recycled）
-- [PCR 環保回收再製材料](pcr) ♻️
+- [PCR 環保回收再製材料](pcr) 
 
 <br>
 
