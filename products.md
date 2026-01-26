@@ -89,7 +89,7 @@
 
 ## 工程塑料（Engineering Plastics）
 - [PC 聚碳酸酯](pc)
-- [SI-PC 矽-聚碳酸酯](si-pc)
+- [Si-PC 矽-聚碳酸酯](si-pc)
 - [PC 合金、PC/ABS 合金](pc-abs)
 - [PMMA 壓克力](pmma)
 - [MS 樹脂](ms)
