@@ -82,7 +82,7 @@
   }
 </style>
 
-# SI-PC (Silicon Polycarbonate) 矽聚碳酸酯
+# SI-PC (Silicon Polycarbonate) 矽-聚碳酸酯
 
 
 <br>
