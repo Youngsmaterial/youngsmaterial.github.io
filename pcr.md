@@ -150,7 +150,7 @@
 
 🔗 延伸材料參考：
 - [PC 聚碳酸酯](pc)
-- [SI-PC 矽-聚碳酸酯](si-pc)
+- [Si-PC 矽-聚碳酸酯](si-pc)
 - [PC合金、PC/ABS 合金](pc-abs)
 - [返回產品總覽](products)
 
