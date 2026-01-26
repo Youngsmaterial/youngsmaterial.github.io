@@ -1,4 +1,16 @@
 <style>
+  h1 {
+    font-size: 1.6rem;
+    font-weight: 500;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    letter-spacing: 0.04em;
+    color: #444;
+  }
+</style>
+
+
+<style>
   header,
   .site-header,
   .page-header {
