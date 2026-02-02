@@ -86,7 +86,7 @@
 
 <br>
 
-**品牌: Wanhua Chemical 萬華化學 Membrane®**
+**品牌: Wanhua Chemical 萬華化學 Wanforite®**
 
 <br>
 
