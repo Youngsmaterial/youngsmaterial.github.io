@@ -94,7 +94,7 @@
 - [PMMA 壓克力](pmma)
 - [MS 樹脂](ms)
 - [PA12 尼龍](pa12)
-- [PPSU 聚苯碸](ppsu)
+- [PPSU 聚苯碸、PSU 聚碸](ppsu)
 
 
 <br>
