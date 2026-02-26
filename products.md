@@ -89,7 +89,7 @@
 
 ## 工程塑料（Engineering Plastics）
 - [PC 聚碳酸酯](pc)
-- [High Refractive Index PC 高折射率PC、COC 環狀烯烴共聚物、COP 環狀烯烴共聚物](Optical-Lens-Material)
+- [High Refractive Index PC 高折射率PC、COC 環狀烯烴共聚物、COP 環狀烯烴共聚物](Optical-Lens-Material.md)
 - [Si-PC 矽-聚碳酸酯](si-pc)
 - [PC 合金、PC/ABS 合金](pc-abs)
 - [PMMA 壓克力](pmma)
