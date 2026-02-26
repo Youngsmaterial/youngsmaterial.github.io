@@ -82,7 +82,6 @@
   }
 </style>
 
-# High-refractive-index PC、Cyclo Olefin Copolymer、Cyclo Olefin Polymer
 # 高折射率PC、COC環狀烯烴共聚物、COP環狀烯烴共聚物
 
 <br>
