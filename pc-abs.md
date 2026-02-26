@@ -151,6 +151,7 @@
 
 🔗 延伸材料參考：
 - [PC 聚碳酸酯](pc)
+- [High Refractive Index PC 高折射率PC、COC 環狀烯烴共聚物、COP 環狀烯烴共聚物](optical-lens-material)
 - [Si-PC 矽-聚碳酸酯](si-pc)
 - [PCR 環保回收再製材料](pcr)
 - [返回產品總覽](products)
